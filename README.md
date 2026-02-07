@@ -1,7 +1,7 @@
 # Kairo Studios
 
 <div align="center">
-  <img src="./public/Logo.svg" alt="Kairo Logo" width="120" height="120">
+  <img src="./Frontend/public/Logo.svg" alt="Kairo Logo" width="120" height="120">
   
   ### SaaS Platform for Project Management and Productivity
   
