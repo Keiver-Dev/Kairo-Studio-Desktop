@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+.font-Sour {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.font-Borel {
+  font-family: "Borel", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.font-jakarta {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
